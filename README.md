@@ -40,6 +40,7 @@ Full Subtractor:
 
 
 VERILOG CODE:
+```
 FULL ADDER:
 ```
 module fulladder (sum, cout, a,b,c);
