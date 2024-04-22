@@ -152,27 +152,50 @@ endmodule
 # OUTPUT:
 
 # Full Adder
-![Full Adder](https://github.com/RCKcharan10/VLSI-LAB-EXP-1/assets/117891438/78ebcf71-8ed3-4710-ae0e-47d9b794d7a5)
+
+![319674071-5861d9cc-f439-4d6f-9637-e207327496d9](https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/22107c6d-d04c-4bef-aec0-eeed5a79c44a)
+
+<img width="632" alt="324388464-77971412-b208-47e6-a7a3-83ed932000c4" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/492ae14a-c23e-409a-8182-969b5b2b4c2b">
+
 
 # Full Subractor
-![Full Subtractor](https://github.com/RCKcharan10/VLSI-LAB-EXP-1/assets/117891438/d511498e-58e7-40ff-9fd9-6987e5e15247)
+
+![319674378-9cba1528-e76b-488b-b225-a2d1d1719521](https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/085e478a-dbd1-4afc-92c8-1107327e6ada)
+
+<img width="490" alt="324392598-2fb76565-dba4-4d30-8307-ddbd07374350" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/4cf9ad2c-06c7-4fba-875a-215221954321">
 
 # Half Adder
-![Half Adder](https://github.com/RCKcharan10/VLSI-LAB-EXP-1/assets/117891438/8b7a2be1-30e9-4911-b375-bc6628810f42)
 
-![WhatsApp Image 2024-04-22 at 14 11 37_bd3208a0](https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/cbf5320a-ed64-4d8f-add0-47e6fb1de8d2)
+![319674536-ef26f9ed-47ad-465f-abba-e1c83fcd7ae4](https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/2e11b29e-a43e-41bd-91dd-11ddfa0049bd)
+
+![324386315-f80953ae-1db6-4e23-a04b-ace1dfedbebe](https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/9d50e021-22e8-48e9-820e-e1062eac93ff)
+
 
 # Half Subractor
-![Half Subtractor](https://github.com/RCKcharan10/VLSI-LAB-EXP-1/assets/117891438/1cb3367d-390f-44d9-9b5c-34024cef9ad1)
+
+![319674711-bd30eda2-6717-4c26-9457-4ab8c7ae86c4](https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/6a4ca03b-935a-4def-be95-cb9cae73a07b)
+
+<img width="488" alt="324392329-fcf37701-b2ac-4d85-905e-b593841d4afe" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/381744ae-7a6c-4824-a167-f70f69d932bb">
 
 # Logic Gates
-![Logic Gates](https://github.com/RCKcharan10/VLSI-LAB-EXP-1/assets/117891438/bead9dfd-0b4d-4f86-a485-7886a157954a)
+
+![319674842-2d24d1a6-a293-41ef-b8a9-e84471cd9c54](https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/400d2234-6df2-42bf-ae50-7a191c1b52a7)
+
+<img width="556" alt="324391651-51100cd9-c792-4faa-9c9b-1b5de2260066" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/e2f52b34-b8bd-441f-8d48-b024cb366f5e">
 
 # Ripple Carry Adder 4bit
-![Ripple Carry Adder](https://github.com/RCKcharan10/VLSI-LAB-EXP-1/assets/117891438/c379253c-3654-49b6-80ff-6adba9a515a6)
+
+![319674949-a9e07040-1295-4b54-a60d-59b0c8ad9f5c](https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/43fe924e-9a74-4359-a83e-ea0956df124b)
+
+<img width="632" alt="324388178-ea7e9859-5a42-45f4-aaec-bfd7efeece9c" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/4ab2d8b9-2f06-43be-a42e-945359c4793b">
 
 # Ripple Carry Adder 8bit
-![Ripple Carry Adder8bit](https://github.com/RCKcharan10/VLSI-LAB-EXP-1/assets/117891438/5f580fee-30ea-4256-bc0c-1390963ed0b3)
+
+![319675048-5c0ad9e4-b9ae-40e9-8036-98295a896dea](https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/8dd8b2d4-057f-4a2a-9496-2775480038d5)
+
+<img width="631" alt="324387760-517604ec-80d3-406b-917b-37d8927487f1" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/da885a29-0c7e-4c71-a8e1-1c9dbd3e555e">
+
+
 
 RESULT:
-
+Thus the simulation and synthesis Logic Gates,Adders and Subtractor using VIVADO 2023.2 has been verified.
