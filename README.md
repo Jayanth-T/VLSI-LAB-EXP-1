@@ -15,6 +15,9 @@ Half Adder:
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/0e1ecb96-0c25-4556-832b-aeeedfdfe7b9)
 
+![WhatsApp Image 2024-04-22 at 14 11 37_bd3208a0](https://github.com/Jayanth-T/VLSI-LAB-EXP-1/assets/106177371/cbf5320a-ed64-4d8f-add0-47e6fb1de8d2)
+
+
 
 Full adder:
 
